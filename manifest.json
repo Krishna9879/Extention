@@ -1,8 +1,8 @@
 {
     "name": "Laughter Loop",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "manifest_version": 3,
-    "description": "A Chrome Extension to display random dad jokes.",
+    "description": "A Chrome Extension to display random jokes.",
     "action": {
         "default_popup": "popup.html",
         "default_icon": "images.monkey.png"

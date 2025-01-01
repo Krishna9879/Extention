@@ -4,6 +4,7 @@ fetch('https://icanhazdadjoke.com/slack')
     const jokeText = jokeData.attachments[0].text;
     const jokeElement =document.getElementById('jokeElement');
 
-    jokeElement.innerHTML=jokeText;
+    jokeElement.innerHTML=jokeText;   
     
 })
+
